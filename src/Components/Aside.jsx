@@ -1,6 +1,5 @@
-// Aside.jsx
 import React from "react";
-import "../Css/Aside.css"; // Import the external CSS for custom styles if needed
+import "../Css/Aside.css";
 
 function Aside() {
   return (

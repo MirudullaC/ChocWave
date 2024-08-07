@@ -11,7 +11,6 @@ function NavbarComponent() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
             {" "}
-            {/* ms-auto aligns the items to the right */}
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/services">Services</Nav.Link>
             <Nav.Link href="/about">About Us</Nav.Link>

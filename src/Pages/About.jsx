@@ -27,7 +27,6 @@ const AboutUs = () => {
           </Col>
         </Row>
 
-        {/* Other Team Members */}
         <Row className="justify-content-center">
           <Col md={4} className="">
             <Card className="border-0">
@@ -68,7 +67,6 @@ const AboutUs = () => {
         </Row>
       </section>
 
-      {/* Sections in a Row with 3 Columns */}
       <Row className="text-center my-5">
         <Col md={4}>
           <h2>About Adezon</h2>
