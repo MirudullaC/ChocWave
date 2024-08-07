@@ -1,0 +1,13 @@
+/* Navbar.css */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+  font-weight: bold;
+  color: #f85605 !important;
+}
+
+.nav-link:hover {
+  color: #d45c02 !important;
+}

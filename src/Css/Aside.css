@@ -1,0 +1,28 @@
+/* Aside.css */
+aside {
+  background-color: #f8f9fa; /* Light background for the aside element */
+  padding: 20px;
+  box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.list-unstyled {
+  padding-left: 0;
+}
+
+.category-item {
+  padding: 8px;
+  background-color: #e9ecef;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.category-item:hover {
+  background-color: #dee2e6;
+}

@@ -1,0 +1,40 @@
+.card-image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.product-card {
+  width: 16rem;
+}
+.card {
+  background-color: #f9f9f9;
+  border: none;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.price-discount {
+  color: #000;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.discount {
+  color: red;
+  font-weight: bold;
+}
+
+.rating {
+  margin-top: 0.5rem;
+}
+
+.rating-number {
+  margin-left: 0.5rem;
+}

@@ -1,0 +1,32 @@
+.team-image {
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: none;
+}
+
+.team-section h2 {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.my-5 {
+  margin: 3rem 0;
+}
+
+.text-center h2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.text-center p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.founder-image {
+  background-color: #fff;
+  width: 500px;
+  height: 400px;
+}
+.founder-card {
+}
